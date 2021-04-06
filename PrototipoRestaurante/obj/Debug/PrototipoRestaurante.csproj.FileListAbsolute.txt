@@ -1,0 +1,708 @@
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe.config
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.pdb
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csprojAssemblyReference.cache
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.Properties.Resources.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.GenerateResource.cache
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.pdb
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GerenteGeneral.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe.config
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.pdb
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csprojAssemblyReference.cache
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GerenteGeneral.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.Properties.Resources.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.GenerateResource.cache
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.pdb
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIprincipal.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteGeneralInicioSesion.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIprincipal.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteGeneralInicioSesion.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIClienteCualquier.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe.config
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.pdb
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csprojAssemblyReference.cache
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIprincipal.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIClienteCualquier.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteGeneralInicioSesion.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GerenteGeneral.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.Properties.Resources.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.GenerateResource.cache
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.pdb
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.Contratar_mesero.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarCliente.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIPruebaPedido.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarCliente.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirMesero.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarCajero.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirCajero.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProveedor.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarProveedor.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProveedor.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarGerente.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirGerente.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICrearReserva.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICancelarReserva.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProducto.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProducto.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICalcularNomina.resources
+J:\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe.config
+J:\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe
+J:\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.pdb
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csprojAssemblyReference.cache
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIprincipal.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarCliente.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarPlato.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProducto.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProveedor.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarCliente.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarProveedor.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICalcularNomina.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICancelarReserva.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarCajero.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarGerente.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.Contratar_mesero.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIClienteCualquier.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICrearReserva.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirCajero.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirGerente.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirMesero.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarPlato.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProducto.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProveedor.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteGeneralInicioSesion.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMenu.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIProductosProveedor.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIPruebaPedido.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GerenteGeneral.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.Properties.Resources.resources
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.GenerateResource.cache
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe
+J:\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.pdb
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarPlato.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarPlato.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMenu.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIProductosProveedor.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarRestaurante.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe.config
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.pdb
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csprojAssemblyReference.cache
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIprincipal.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarCliente.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarPlato.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProducto.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProveedor.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarRestaurante.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarCliente.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarProveedor.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICalcularNomina.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICancelarReserva.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarCajero.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarGerente.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.Contratar_mesero.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIClienteCualquier.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICrearReserva.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirCajero.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirGerente.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirMesero.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarPlato.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProducto.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProveedor.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteGeneralInicioSesion.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteInforme.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMenu.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIProductosProveedor.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIPruebaPedido.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GerenteGeneral.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.Properties.Resources.resources
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.GenerateResource.cache
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe
+C:\Users\jeiss\Desktop\Universidad\Semestre 5\Ingenieria de software 1\PROYECTO\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.pdb
+C:\software\PrototipoRestaurante\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\software\PrototipoRestaurante\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\software\PrototipoRestaurante\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\software\PrototipoRestaurante\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\software\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe.config
+C:\software\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe
+C:\software\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.pdb
+C:\software\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\software\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\software\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\software\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\software\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\software\PrototipoRestaurante\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\software\PrototipoRestaurante\bin\Debug\EnvDTE.dll
+C:\software\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\software\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\software\PrototipoRestaurante\bin\Debug\stdole.dll
+C:\software\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\software\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\software\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\software\PrototipoRestaurante\bin\Debug\Microsoft.MSXML.dll
+C:\software\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIprincipal.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarCliente.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarPlato.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProducto.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProveedor.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarRestaurante.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarCliente.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarProveedor.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICalcularNomina.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICancelarReserva.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarCajero.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarGerente.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.Contratar_mesero.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIClienteCualquier.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICrearReserva.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirCajero.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirGerente.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirMesero.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarPlato.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProducto.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProveedor.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteGeneralInicioSesion.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteInforme.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMenu.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIProductosProveedor.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIPruebaPedido.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GerenteGeneral.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.Properties.Resources.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.GenerateResource.cache
+C:\software\PrototipoRestaurante\obj\Debug\RdlCompile.cache
+C:\software\PrototipoRestaurante\obj\Debug\RdlCompile.compiled
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.CopyComplete
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.pdb
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteReporte.resources
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csprojAssemblyReference.cache
+C:\software\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe.manifest
+C:\software\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.application
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe.manifest
+C:\software\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.application
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe.config
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe.manifest
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.application
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.pdb
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\System.Security.AccessControl.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\System.Security.Permissions.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\System.Security.Principal.Windows.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\EnvDTE.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\stdole.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\Microsoft.MSXML.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\System.Security.AccessControl.xml
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\System.Security.Permissions.xml
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\System.Security.Principal.Windows.xml
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csprojAssemblyReference.cache
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIprincipal.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarCliente.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarPlato.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProducto.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProveedor.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarRestaurante.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarCliente.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarProveedor.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICalcularNomina.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICancelarReserva.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarGerente.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIClienteCualquier.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICrearReserva.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirCajero.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirGerente.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirMesero.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarPlato.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProducto.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProveedor.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteGeneralInicioSesion.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteInforme.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteReporte.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMenu.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMesero.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMeseroInicioSesion.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIProductosProveedor.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIPruebaPedido.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GerenteGeneral.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.Properties.Resources.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.GenerateResource.cache
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe.manifest
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.application
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.CopyComplete
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.pdb
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICajero.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICajeroInicioSesion.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIChef.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIChefInicioSesion.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerentePuntoInicioSesion.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteDePunto.resources
+D:\Universidad\Semestre VII\Ingenieria de Software\Restaurante\Parte Jhon\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarEmpleado.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe.config
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe.manifest
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.application
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.pdb
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\System.Security.AccessControl.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\System.Security.Permissions.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\EnvDTE.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\stdole.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.MSXML.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\System.Security.AccessControl.xml
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\System.Security.Permissions.xml
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csprojAssemblyReference.cache
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIprincipal.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarCliente.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarPlato.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProducto.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProveedor.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarRestaurante.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarCliente.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarProveedor.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICajero.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICajeroInicioSesion.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICalcularNomina.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICancelarReserva.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIChef.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIChefInicioSesion.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarEmpleado.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarGerente.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIClienteCualquier.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICrearReserva.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirCajero.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirGerente.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirMesero.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarPlato.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProducto.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProveedor.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteDePunto.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteGeneralInicioSesion.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteInforme.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerentePuntoInicioSesion.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteReporte.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMenu.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMesero.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMeseroInicioSesion.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIProductosProveedor.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIPruebaPedido.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GerenteGeneral.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.Properties.Resources.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.GenerateResource.cache
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe.manifest
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.application
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.CopyComplete
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.pdb
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\bin\Debug\aa\PrototipoRestaurante.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIprincipal.aa.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\aa\PrototipoRestaurante.resources.dll
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIsecundaria.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIterciaria.resources
+C:\Users\jhone\OneDrive\Escritorio\Proyecto Pinguino\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIcuartita.resources
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe.config
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe.manifest
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.application
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.pdb
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\aa\PrototipoRestaurante.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\System.Security.AccessControl.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\System.Security.Permissions.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\System.Security.Principal.Windows.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\EnvDTE.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\stdole.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\Microsoft.MSXML.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\System.Security.AccessControl.xml
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\System.Security.Permissions.xml
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\System.Security.Principal.Windows.xml
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csprojAssemblyReference.cache
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIprincipal.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIcuartita.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIterciaria.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIsecundaria.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarCliente.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarPlato.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProducto.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProveedor.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarRestaurante.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarCliente.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarProveedor.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICajero.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICajeroInicioSesion.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICalcularNomina.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICancelarReserva.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIChef.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIChefInicioSesion.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarEmpleado.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarGerente.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIClienteCualquier.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICrearReserva.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirCajero.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirGerente.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirMesero.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarPlato.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProducto.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProveedor.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteDePunto.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteGeneralInicioSesion.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteInforme.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerentePuntoInicioSesion.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteReporte.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMenu.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMesero.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMeseroInicioSesion.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIProductosProveedor.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIPruebaPedido.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GerenteGeneral.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.Properties.Resources.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIprincipal.aa.resources
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.GenerateResource.cache
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\RdlCompile.cache
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\RdlCompile.compiled
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\aa\PrototipoRestaurante.resources.dll
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe.manifest
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.application
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.CopyComplete
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.pdb
+C:\software\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirEmpleado.resources
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe
+C:\Users\Laura Páramo\Documents\Ingeniería de sistemas\V Semestre\Ingeniería de Software\FINAL\Prototipo\Final Albert\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.pdb
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.pdb
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe.config
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe.manifest
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.application
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.exe
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\PrototipoRestaurante.pdb
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\aa\PrototipoRestaurante.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\System.Security.AccessControl.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\System.Security.Permissions.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\EnvDTE.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\stdole.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\Microsoft.MSXML.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\System.Security.AccessControl.xml
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\System.Security.Permissions.xml
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csprojAssemblyReference.cache
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIprincipal.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirEmpleado.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIcuartita.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIterciaria.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIsecundaria.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarCliente.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarPlato.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProducto.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarProveedor.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIAgregarRestaurante.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarCliente.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIBuscarProveedor.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICajero.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICajeroInicioSesion.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICalcularNomina.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICancelarReserva.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIChef.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIChefInicioSesion.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarEmpleado.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIContratarGerente.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIClienteCualquier.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUICrearReserva.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirCajero.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirGerente.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIDespedirMesero.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarPlato.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProducto.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIEliminarProveedor.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteDePunto.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteGeneralInicioSesion.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteInforme.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerentePuntoInicioSesion.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIGerenteReporte.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMenu.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMesero.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIMeseroInicioSesion.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIProductosProveedor.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GUIPruebaPedido.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.InterfaceGraphish.GerenteGeneral.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.Properties.Resources.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.GUIprincipal.aa.resources
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.GenerateResource.cache
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\aa\PrototipoRestaurante.resources.dll
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.exe.manifest
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.application
+C:\Users\gsman\OneDrive\Desktop\software 2\Restaurante\Restaurante\PrototipoRestaurante\obj\Debug\PrototipoRestaurante.csproj.CopyComplete
